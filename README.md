@@ -46,7 +46,7 @@
 |--------|-------------|------|
 | 🏰 **GemTD** | Tower Defense game built with Entitas ECS and merge mechanics | [GitHub](https://github.com/Olsney/GEM_TD) |
 | ⚔️ **Dynasty Survivors** | Survivors-like action game using Zenject and ScriptableObjects | [GitHub](https://github.com/Olsney/Dynasty-Survivors) |
-| 🧪 **RSG Test Task** | Playtest-ready Unity project with loot, healing, inventory, combat & UI polish | [GitHub](https://github.com/Olsney/RSG_Test_Task) |
+| 🧪 **RSG Test Task** | Playtest-ready Unity project with MVP, loot, healing, inventory, combat & UI polish | [GitHub](https://github.com/Olsney/RSG_Test_Task) |
 
 <br/>
 
