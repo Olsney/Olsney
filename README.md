@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7dc7747b-3e29-458d-bb32-afb5836549dd" width="800"/>
+  <img src="https://github.com/user-attachments/assets/9561fdd8-d2e6-4cab-83f7-f0f9863eb17a" width="800"/>
 </p>
 
 ### <div align="center">Hi! I'm Maksym — a Unity Developer</div>  
-<div align="center">Creating engaging games with Unity, using ECS & OOP 🎮</div>
+<div align="center">Creating games with Unity using ECS and OOP🎮</div>
 
 <br/>
 
