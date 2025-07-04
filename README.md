@@ -3,7 +3,7 @@
 </p>
 
 ### <div align="center">Hi! I'm Maksym — a Unity Developer</div>  
-<div align="center">Creating games with Unity using ECS and OOP🎮</div>
+<div align="center">Creating games with Unity using ECS and OOP 🎮</div>
 
 <br/>
 
