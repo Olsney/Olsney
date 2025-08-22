@@ -12,8 +12,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Olsney" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Olsney&theme=dark&hide_border=false"
+    alt="GitHub Streak — Olsney"
+  />
 </div>
 
 <br/>
@@ -22,7 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=olsney&style=flat-square&color=blue" />
 </div>
 
-<br/>
 
 ---
 
