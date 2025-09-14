@@ -11,20 +11,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Olsney&theme=dark&hide_border=false"
-    alt="GitHub Streak — Olsney"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=olsney&style=flat-square&color=blue" />
-</div>
-
-
 ---
 
 ## 🧰 Tech Stack
