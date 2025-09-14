@@ -13,7 +13,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Olsney&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com?user=Olsney&theme=dark&hide_border=false"
     alt="GitHub Streak — Olsney"
   />
 </div>
