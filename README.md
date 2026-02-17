@@ -46,7 +46,6 @@
 | 🏰 **GemTD (Unannounced PC Project)** | Tower Defense game built with Entitas ECS | [GitHub](https://github.com/Olsney/GEM_TD) |
 | ⚔️ **Dynasty Survivors** | Survivors-like action game built with OOP | [GitHub](https://github.com/Olsney/Dynasty_Survivors) |
 | 🧪 **RSG Test Task** | Playtest-ready Unity project with MVP, loot, healing, inventory, combat & UI polish | [GitHub](https://github.com/Olsney/RSG_Test_Task) |
-| 🔢 **Raccoons Test Task (2048 3D)** | Physics-based prototype inspired by 2048. Built in 2 days. Features Zenject DI, state machine, merge logic and DOTween| [GitHub](https://github.com/Olsney/RaccoonsTestTask) |
 
 
 
