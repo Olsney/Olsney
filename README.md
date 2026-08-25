@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7dc7747b-3e29-458d-bb32-afb5836549dd" width="800"/>
 </p>
 
 ### <div align="center">Hi! I'm Maksym — a Unity Developer</div>  
